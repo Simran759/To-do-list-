@@ -2,6 +2,10 @@
 
 A simple and responsive To-Do List application built with **HTML**, **CSS**, and **JavaScript**. It allows users to add, delete, and manage tasks. The tasks are stored in the browser's **localStorage**, so they persist even after refreshing or closing the browser.
 
+## 🔗 Live Demo
+
+👉 [Click here to try the To-Do List Website](https://simran759.github.io/To-do-list-/)
+
 ## 🚀 Features
 
 - ✅ **Add Task** – Add a new task with a click or pressing Enter.
@@ -10,6 +14,7 @@ A simple and responsive To-Do List application built with **HTML**, **CSS**, and
 - ✔️ **Mark Task as Completed** – Toggle a task between completed and pending.
 - ⏳ **View Pending Tasks** – Displays the count of pending (incomplete) tasks.
 - 🧹 **Clear All Tasks** – One-click option to remove all tasks.
+
 
 
 ## 💻 Tech Stack
