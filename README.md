@@ -9,7 +9,7 @@ A simple and responsive To-Do List application built with **HTML**, **CSS**, and
 - 🗑️ **Delete Task** – Remove tasks when they are no longer needed.
 - ✔️ **Mark Task as Completed** – Toggle a task between completed and pending.
 - ⏳ **View Pending Tasks** – Displays the count of pending (incomplete) tasks.
-- 🧹 **Clear All Tasks** – One-click option to remove all tasks.
+
 
 ## 💻 Tech Stack
 
